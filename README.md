@@ -1,2 +1,2 @@
 # socialea-human
-The code is coming soon.
+Please refer to [MHTraj](https://github.com/iRobotVision/socialea-human)
